@@ -4,4 +4,3 @@ This generates the wordcloud of firefox's search keyword. if the occurrence of w
 
 It's fun to see which words are frequently search. Suggestions are welcome.
 
-I'm using the wordcloud library developed by https://github.com/amueller/word_cloud 
